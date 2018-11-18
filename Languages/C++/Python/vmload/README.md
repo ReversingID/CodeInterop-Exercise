@@ -2,7 +2,7 @@
 
 * Invoker: C++
 * Called: Python
-* Technique: Embedding
+* Technique: VM Loading
 
 ### Invocation Steps
 
